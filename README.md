@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mawd2003
 - 👀 I’m interested in Programming and Web developing 
-- 🌱 I’m currently learning frond end 
+- 🌱 I’m currently learning front end 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
